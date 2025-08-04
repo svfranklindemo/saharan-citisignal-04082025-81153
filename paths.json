@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/saharan/saharan-2025-8-4-13-41-50/:/",
+      "/content/saharan/saharan-2025-8-4-13-41-50/configuration:/.helix/config.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/metadata:/metadata.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/configs:/configs.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/configs-stage:/configs-stage.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/configs-dev:/configs-dev.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/redirects:/redirects.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/placeholders:/placeholders.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/products/recommended-products:/products/recommended-products.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/saharan/saharan-2025-8-4-13-41-50/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/saharan/saharan-2025-8-4-13-41-50",
       "/content/dam/citisignal/images/products/"
     ]
 }
